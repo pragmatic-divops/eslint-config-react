@@ -1,0 +1,43 @@
+{
+  "name": "@pragmatic-divops/eslint-config-react",
+  "description": "Shareable config for ESLint for React components",
+  "license": "MIT",
+  "version": "0.0.0-semantically-released",
+  "files": [
+    "example.js",
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "runkitExampleFilename": "./example.js",
+  "repository": "pragmatic-divops/eslint-config-react",
+  "bugs": "https://github.com/pragmatic-divops/eslint-config-react/issues",
+  "homepage": "https://npm.im/@pragmatic-divops/eslint-config-react",
+  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org)",
+  "scripts": {
+    "test": "npm-run-all --print-label --parallel lint:*",
+    "lint:lockfile": "lockfile-lint",
+    "lint:md": "remark . --frail",
+    "generate:md": "remark . --output",
+    "lint:sensitive": "ban",
+    "lint:js": "eslint .",
+    "lint:peer": "npm ls >/dev/null"
+  },
+  "dependencies": {
+    "@form8ion/eslint-config-react": "1.15.29"
+  },
+  "devDependencies": {
+    "@pragmatic-divops/commitlint-config": "1.0.2",
+    "@pragmatic-divops/eslint-config": "1.0.5",
+    "@pragmatic-divops/remark-preset": "1.0.1",
+    "ban-sensitive-files": "1.9.12",
+    "cz-conventional-changelog": "3.3.0",
+    "husky": "4.3.0",
+    "lockfile-lint": "4.3.7",
+    "npm-run-all": "4.1.5",
+    "remark-cli": "8.0.1",
+    "remark-toc": "7.0.0",
+    "remark-usage": "8.0.0"
+  }
+}
