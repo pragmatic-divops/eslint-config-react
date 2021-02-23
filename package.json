@@ -28,7 +28,7 @@
     "@form8ion/eslint-config-react": "1.15.35"
   },
   "devDependencies": {
-    "@pragmatic-divops/commitlint-config": "1.0.2",
+    "@pragmatic-divops/commitlint-config": "1.0.3",
     "@pragmatic-divops/eslint-config": "1.0.18",
     "@pragmatic-divops/remark-preset": "1.0.2",
     "ban-sensitive-files": "1.9.15",
