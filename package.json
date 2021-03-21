@@ -30,7 +30,7 @@
   "devDependencies": {
     "@pragmatic-divops/commitlint-config": "1.0.4",
     "@pragmatic-divops/eslint-config": "1.0.20",
-    "@pragmatic-divops/remark-preset": "1.0.3",
+    "@pragmatic-divops/remark-preset": "1.0.4",
     "ban-sensitive-files": "1.9.15",
     "cz-conventional-changelog": "3.3.0",
     "husky": "5.1.3",
