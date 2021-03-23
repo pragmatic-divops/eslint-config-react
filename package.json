@@ -25,7 +25,7 @@
     "lint:peer": "npm ls >/dev/null"
   },
   "dependencies": {
-    "@form8ion/eslint-config-react": "1.15.35"
+    "@form8ion/eslint-config-react": "1.15.36"
   },
   "devDependencies": {
     "@pragmatic-divops/commitlint-config": "1.0.4",
