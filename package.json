@@ -32,7 +32,7 @@
     "@form8ion/babel-preset": "1.6.87",
     "@pragmatic-divops/commitlint-config": "1.0.17",
     "@pragmatic-divops/eslint-config": "1.0.40",
-    "@pragmatic-divops/remark-preset": "2.0.9",
+    "@pragmatic-divops/remark-preset": "2.0.10",
     "ban-sensitive-files": "1.9.18",
     "cz-conventional-changelog": "3.3.0",
     "husky": "7.0.4",
