@@ -26,7 +26,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@form8ion/eslint-config-react": "1.15.71"
+    "@form8ion/eslint-config-react": "1.15.72"
   },
   "devDependencies": {
     "@form8ion/babel-preset": "1.6.95",
