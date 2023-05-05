@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@form8ion/babel-preset": "1.6.100",
-    "@pragmatic-divops/commitlint-config": "1.0.35",
+    "@pragmatic-divops/commitlint-config": "1.0.36",
     "@pragmatic-divops/eslint-config": "1.0.69",
     "@pragmatic-divops/remark-preset": "3.0.3",
     "ban-sensitive-files": "1.9.19",
