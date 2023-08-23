@@ -33,7 +33,7 @@
     "@pragmatic-divops/commitlint-config": "1.0.41",
     "@pragmatic-divops/eslint-config": "1.0.80",
     "@pragmatic-divops/remark-preset": "3.0.4",
-    "ban-sensitive-files": "1.9.19",
+    "ban-sensitive-files": "1.10.0",
     "cz-conventional-changelog": "3.3.0",
     "husky": "8.0.3",
     "lockfile-lint": "4.12.0",
