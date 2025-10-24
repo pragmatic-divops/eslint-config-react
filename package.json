@@ -29,7 +29,7 @@
     "@form8ion/eslint-config-react": "1.16.66"
   },
   "devDependencies": {
-    "@form8ion/babel-preset": "1.6.149",
+    "@form8ion/babel-preset": "1.6.150",
     "@pragmatic-divops/commitlint-config": "1.0.69",
     "@pragmatic-divops/eslint-config": "1.0.97",
     "@pragmatic-divops/remark-preset": "4.0.8",
